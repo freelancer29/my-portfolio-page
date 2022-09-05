@@ -61,7 +61,7 @@ body {
 }
 
 /* footer section */
- 
+
 footer img {
     max-width: 100%;
     height: auto;
@@ -309,14 +309,16 @@ footer img {
     width: 100px;
     height: 48px;
   }
-  
+
   .navbar-nav .nav-item:hover {
     background-color: rgba(180, 190, 203, 0.4);
   }
 
 
   @media screen and (max-width: 480px) {
-    .name_tag h3 {
-        font-size: 25px;
-    }
+    @media (max-width: 575.98px) { 
+        .custom-class {
+            display: block;
+          }
+     }
   }
