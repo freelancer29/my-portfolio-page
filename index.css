@@ -315,10 +315,8 @@ footer img {
   }
 
 
-  @media screen and (max-width: 480px) {
-    @media (max-width: 575.98px) { 
+@media (max-width: 575.98px) { 
         .custom-class {
             display: block;
           }
      }
-  }
