@@ -319,4 +319,8 @@ footer img {
         .custom-class {
             display: block;
           }
+          .name_tag h2 {
+            margin-top: -5rem;
+          }
+
      }
