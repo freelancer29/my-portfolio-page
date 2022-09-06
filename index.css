@@ -184,7 +184,10 @@ footer img {
             display: block;
           }
           .name_tag h2 {
-            margin-top: -6rem;
+            margin-top: -2rem;
           }
+          .button_div {
+            margin-top: 4rem;
+        }
      }
      
