@@ -189,5 +189,10 @@ footer img {
           .button_div {
             margin-top: 4rem;
         }
+        #id_about {
+            display: flex;
+            flex-direction: column-reverse;
+            justify-content: space-around;
+        }
      }
      
